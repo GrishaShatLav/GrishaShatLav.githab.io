@@ -36,7 +36,7 @@ html {
     display: inline-block;
     padding: .5em;
     color:rgb(0, 0, 0);
-    text-decoration:none;
+    text-decoration: none;
 }
 .nav a:hover{
     background-color:rgba(62, 160, 66,1)
