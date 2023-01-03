@@ -1,54 +1,31 @@
-*{
-box-sizing: border-box;
-font-family:'Malgun Gothic';
-    color:rgb()
-}
-
-
-html, body {
-    margin: 0;
-    padding: 0;
-}
-
-.h1 {
-    margin: 0;
-    padding: 0;
-}
-.main-header {
-
-    background-color: rgb(139, 195, 74);
-    background-blend-mode:multiply;
-    background-size: cover;
-}
 html {
-    border-width: 3px;
-    border-style: double;
-    border-color: rgb(28, 65, 165);
-    background-color: rgb(76, 175, 80);
+    
+    background-color: rgb(62, 161, 66);
 }
-.nav u1{
+.main-photo {
+    padding: 3em;
+    max-width: 300px;
+    max-height: auto;
+    border-radius: 50%;
+}
+.h1 a{
+    padding: 0;
+}
+
+.nav u1 {
     margin: 0;
 }
-.nav li{
+
+.nav li {
     display: inline;
 }
-.nav a{
+
+.nav a {
     display: inline-block;
-    padding: .5em;
-    color:rgb(0, 0, 0);
+    padding:revert;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
-.nav a:hover{
-    background-color:rgba(62, 160, 66,1)
-}
-.main-nav {
-    text-align: center;
-    font-size: 1.1em;
-    border-bottom: 1px solid rgba(28, 65, 165)
-}
-.main-nav li{
-    padding: 0 2%;
-}
-.contacts li{
-    margin: 15em 0;
+.main-table {
+    background-color: rgb(76, 175, 80)
 }
