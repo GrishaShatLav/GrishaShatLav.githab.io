@@ -1,0 +1,25 @@
+*{
+box-sizing: border-box;
+}
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.h1 {
+    margin: 0;
+}
+.main-header {
+
+    background-color: rgb(139, 195, 74);
+    background-blend-mode:multiply;
+    background-size: cover;
+}
+html {
+    border-width: 3px;
+    border-style: double;
+    border-color: rgb(28, 65, 165);
+    background-color: rgb(76, 175, 80);
+}
